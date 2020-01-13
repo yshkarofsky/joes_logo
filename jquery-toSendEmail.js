@@ -1,8 +1,6 @@
 
-<script>
-
     //update this with your js_form selector
-    var form_id_js = "javascript_form";
+    var form_id_js = "email_form";
 
     var data_js = {
         "access_token": "51vzpwh76rawa6n4zmex54jo"
@@ -62,4 +60,3 @@
     js_form.addEventListener("submit", function (e) {
         e.preventDefault();
     });
-</script>
