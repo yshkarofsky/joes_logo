@@ -5,7 +5,7 @@
     var form_id_js = "javascript_form";
 
     var data_js = {
-        "access_token": "ypvgu2qgz4rxzqhifkulvkfl"
+        "access_token": "51vzpwh76rawa6n4zmex54jo"
     };
 
     function js_onSuccess() {
